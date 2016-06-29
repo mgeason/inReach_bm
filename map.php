@@ -1,9 +1,9 @@
 <?php
 // Sign in to the MySQL database.
 $mysql_servername = "127.0.0.1";
-$mysql_username = "[mysql username]";
-$mysql_password = "[mysql password]";
-$mysql_dbname = "[mysql database]";
+$mysql_username = "beefmira_inreach";
+$mysql_password = "yesweKhan1!";
+$mysql_dbname = "beefmira_route";
 $conn = mysqli_connect($mysql_servername, $mysql_username, $mysql_password, $mysql_dbname);
 
 // GPS coordinates query date range.
