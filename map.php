@@ -84,7 +84,7 @@ $finalpt = end($points);
 		}
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=[YOUR-API-KEY]&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBudUj4WjwbD2rpYyB7JSk-5ZiYxOZA_oo&callback=initMap">
     </script>
   </body>
 </html>
