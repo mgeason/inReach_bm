@@ -1,7 +1,7 @@
 <?php
 // Information required to grab KML file.
 $url = 'https://share.delorme.com/feed/Share/BeefMiracle';
-$username = 'BeefMiracle';
+$username = 'beefmiracle';
 $password = 'yesweKhan1!';
 
 // Connect to MYSQL database.
