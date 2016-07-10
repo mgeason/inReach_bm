@@ -1,8 +1,8 @@
 <?php
 // Information required to grab KML file.
-$url = 'https://share.delorme.com/feed/Share/';
+$url = 'https://share.delorme.com/feed/Share/BeefMiracle';
 $username = 'beefmiracle';
-$password = '[your inreach feed password]';
+$password = 'yesweKhan1!';
 
 // Connect to MYSQL database.
 $mysql_servername = "127.0.0.1";
